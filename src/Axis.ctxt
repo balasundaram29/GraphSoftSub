@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=Axis()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Axis\r\n
-comment1.params=axis_label
-comment1.target=Axis(java.lang.String)
-comment2.params=dataset
-comment2.target=void\ setDataset(Dataset)
-numComments=3

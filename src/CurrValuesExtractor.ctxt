@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=function
-comment0.target=CurrValuesExtractor(Drawable)
-comment1.params=g2D\ dataArea\ declaredValues\ obsValues
-comment1.target=PumpValues\ drawLinesAndExtractValues(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D,\ PumpValues,\ PumpValues)
-comment2.params=xLowerBound\ xUpperBound
-comment2.target=double\ getMax(double,\ double)
-numComments=3
