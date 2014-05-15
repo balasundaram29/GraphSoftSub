@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=RectangleAnchor(java.lang.String)
+comment0.text=\r\n\ Private\ constructor.\r\n\r\n\ @param\ name\ \ the\ name.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ a\ string\ representing\ the\ object.\r\n\r\n\ @return\ The\ string.\r\n
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment2.text=\r\n\ Returns\ <code>true</code>\ if\ this\ object\ is\ equal\ to\ the\ specified\r\n\ object,\ and\ <code>false</code>\ otherwise.\r\n\r\n\ @param\ obj\ \ the\ other\ object\ (<code>null</code>\ permitted).\r\n\r\n\ @return\ A\ boolean.\r\n
+comment3.params=
+comment3.target=int\ hashCode()
+comment3.text=\r\n\ Returns\ a\ hash\ code\ value\ for\ the\ object.\r\n\r\n\ @return\ The\ hashcode\r\n
+comment4.params=rectangle\ anchor
+comment4.target=java.awt.geom.Point2D\ coordinates(java.awt.geom.Rectangle2D,\ RectangleAnchor)
+comment4.text=\r\n\ Returns\ the\ (x,\ y)\ coordinates\ of\ the\ specified\ anchor.\r\n\r\n\ @param\ rectangle\ \ the\ rectangle.\r\n\ @param\ anchor\ \ the\ anchor.\r\n\r\n\ @return\ The\ (x,\ y)\ coordinates.\r\n
+comment5.params=
+comment5.target=java.lang.Object\ readResolve()
+comment5.text=\r\n\ Ensures\ that\ serialization\ returns\ the\ unique\ instances.\r\n\r\n\ @return\ The\ object.\r\n\r\n\ @throws\ ObjectStreamException\ if\ there\ is\ a\ problem.\r\n
+numComments=6

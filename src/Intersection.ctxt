@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=line1\ line2
+comment0.target=java.awt.Point\ getIntersection(java.awt.geom.Line2D,\ java.awt.geom.Line2D)
+comment0.text=\n\ Returns\ the\ intersection\ point\ of\ two\ lines.\n\n\ @param\ \ \ line1\ \ \ First\ line\n\ @param\ \ \ line2\ \ \ Second\ line\n\ @return\ \ The\ Point\ object\ where\ the\ two\ lines\ intersect.\ This\ method\n\ returns\ null\ if\ the\ two\ lines\ do\ not\ intersect.\n\ @throws\ \ <tt>MultipleIntersectionException</tt>\ when\ the\ two\ lines\n\ have\ more\ than\ one\ intersection\ point.\n
+comment1.params=line\ path
+comment1.target=java.awt.Point\ getIntersection(java.awt.geom.Line2D,\ java.awt.geom.GeneralPath)
+comment1.text=\n\ Returns\ the\ intersection\ point\ of\ a\ line\ and\ a\ GeneralPath.\ Given\ that\n\ a\ line\ can\ intersect\ more\ than\ one\ segment\ of\ a\ GeneralPath,\ this\ method\n\ will\ return\ the\ intersection\ point\ of\ the\ first\ segment,\ returned\ by\n\ a\ PathIterator,\ and\ the\ line.\ No\ consideration\ is\ taken\ if\ the\ line\n\ intersects\ more\ than\ one\ segment\ of\ the\ GeneralPath\ since\ this\ is\ internally\n\ used\ by\ salvo.jesus.graph.VisualEdge\ wherein\ the\ edge\ of\ a\ line\n\ will\ intersect\ only\ one\ segment\ of\ the\ VisualVertex's\ GeneralPath.\n\n\ @param\ \ \ line1\ \ \ First\ line\n\ @param\ \ \ path\ \ \ \ GeneralPath\ representing\ line\ segments\n\ @return\ \ The\ Point\ object\ where\ the\ line\ and\ the\ GeneralPath\ object\ intersect.\n\ This\ method\ returns\ null\ if\ they\ do\ not\ intersect.\n
+numComments=2

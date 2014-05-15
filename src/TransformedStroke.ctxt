@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=base\ at
+comment0.target=TransformedStroke(java.awt.Stroke,\ java.awt.geom.AffineTransform)
+comment0.text=\n\ Creates\ a\ TransformedStroke\ based\ on\ another\ Stroke\n\ and\ an\ AffineTransform.\n
+comment1.params=s
+comment1.target=java.awt.Shape\ createStrokedShape(java.awt.Shape)
+comment1.text=\n\ Strokes\ the\ given\ Shape\ with\ this\ stroke,\ creating\ an\ outline.\n\n\ This\ outline\ is\ distorted\ by\ our\ AffineTransform\ relative\ to\ the\n\ outline\ which\ would\ be\ given\ by\ the\ base\ stroke,\ but\ only\ in\ terms\n\ of\ scaling\ (i.e.\ thickness\ of\ the\ lines),\ as\ translation\ and\ rotation\n\ are\ undone\ after\ the\ stroking.\n
+numComments=2

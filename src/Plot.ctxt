@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=domain_axis_label\ range_axis_label\ dataset
+comment0.target=Plot(java.lang.String,\ java.lang.String,\ Dataset)
+comment1.params=gc\ plotArea
+comment1.target=void\ drawAxesAndCurves(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D)
+comment10.params=index
+comment10.target=RangeAxis\ getRangeAxis(int)
+comment11.params=
+comment11.target=DomainAxis\ getDomainAxis()
+comment2.params=gc\ plotArea
+comment2.target=java.awt.geom.Rectangle2D\ drawAxesAndGetDataArea(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D)
+comment3.params=
+comment3.target=java.util.ArrayList\ getRangeAxesList()
+comment4.params=index\ renderer
+comment4.target=void\ setRenderer(int,\ Renderer)
+comment5.params=index\ axis
+comment5.target=void\ setRangeAxis(int,\ RangeAxis)
+comment6.params=index\ set
+comment6.target=void\ setDataset(int,\ Dataset)
+comment7.params=index
+comment7.target=Renderer\ getRenderer(int)
+comment8.params=type
+comment8.target=Renderer\ getRendererByDatasetType(DatasetAndCurveType)
+comment9.params=declaredValues
+comment9.target=void\ setDeclaredValues(PumpValues)
+numComments=12

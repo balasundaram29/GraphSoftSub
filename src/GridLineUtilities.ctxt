@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=plot\ g2D\ dataArea\ type
+comment0.target=void\ drawGridLines(Plot,\ java.awt.Graphics2D,\ java.awt.geom.Rectangle2D,\ GridLinesType)
+comment1.params=g2D\ dataArea\ cursor\ lineColor
+comment1.target=void\ drawHorizontalLine(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D,\ double,\ java.awt.Color)
+comment2.params=g2D\ dataArea\ cursor\ lineColor
+comment2.target=void\ drawVerticalLine(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D,\ double,\ java.awt.Color)
+comment3.params=plot
+comment3.target=boolean\ isRightAxis(Plot)
+numComments=4

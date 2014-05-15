@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=function
+comment0.target=EffValuesExtractor(Drawable)
+comment1.params=g2D\ dataArea\ declaredValues\ obsValues
+comment1.target=PumpValues\ drawLinesAndExtractValues(java.awt.Graphics2D,\ java.awt.geom.Rectangle2D,\ PumpValues,\ PumpValues)
+comment2.params=g2D\ x1In\ y1In\ x2In\ y2In\ lineType
+comment2.target=double\ drawIntersectingLine(java.awt.Graphics2D,\ double,\ double,\ double,\ double,\ IntersectingLineType)
+numComments=3

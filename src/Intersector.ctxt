@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=function
+comment0.target=Intersector(Drawable)
+comment1.params=g2D\ x1In\ y1In\ x2In\ y2In\ lineType
+comment1.target=double\ drawIntersectingLine(java.awt.Graphics2D,\ double,\ double,\ double,\ double,\ IntersectingLineType)
+comment1.text=\n\ Parameters\ input\ \ \:\ \ ix\ \:\ duty\ point\ Q;\n\ Returned\ \ \:\ xr\=x\ Value\ of\ the\ intersection\ .You\ can\ calculate\ y\ at\ intersection\ \=\ rx*iy/ix;\n\ @param\ \ \ \ \ \ ix\ \:\ duty\ point\ Q\n\ @param\ \ \ \ \ \ iy\ \:\ duty\ point\ H\n\n\ @return\ \ \ \ \ the\ intersecting\ point's\ x\ coordinate\n
+comment2.params=xLowerBound\ xUpperBound
+comment2.target=double\ getMax(double,\ double)
+numComments=3

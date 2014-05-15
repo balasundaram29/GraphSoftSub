@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getScaleX()
+comment0.text=\r\n\ @return\ the\ scaleX\r\n
+comment1.params=scaleX
+comment1.target=void\ setScaleX(double)
+comment1.text=\r\n\ @param\ scaleX\ the\ scaleX\ to\ set\r\n
+comment2.params=
+comment2.target=double\ getScaleY()
+comment2.text=\r\n\ @return\ the\ scaleY\r\n
+comment3.params=scaleY
+comment3.target=void\ setScaleY(double)
+comment3.text=\r\n\ @param\ scaleY\ the\ scaleY\ to\ set\r\n
+comment4.params=user2DValue\ java2DDistanceDividedByUserDistance\ dataArea\ edge
+comment4.target=double\ convertFromUserToJava2D(double,\ double,\ java.awt.geom.Rectangle2D,\ RectangleEdge)
+comment5.params=java2DValue\ java2DDistanceDividedByUserDistance\ dataArea\ edge
+comment5.target=double\ convertFromJava2DToUser2D(double,\ double,\ java.awt.geom.Rectangle2D,\ RectangleEdge)
+numComments=6

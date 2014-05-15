@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dataset
+comment0.target=LoessFunction(Dataset)
+comment1.params=x
+comment1.target=double\ getYValue(double)
+comment2.params=
+comment2.target=double\ getXMax()
+comment3.params=
+comment3.target=Dataset\ getDataset()
+numComments=4
